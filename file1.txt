@@ -1,6 +1,8 @@
 {
+content from commit A
 content from commit C
 content from commit O
+content from commit B
 }
 
 content from commit D
