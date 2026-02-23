@@ -1,3 +1,4 @@
 {
+content from commit C
 content from commit O
 }
