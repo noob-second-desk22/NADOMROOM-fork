@@ -1,4 +1,5 @@
 {
 content from commit A
 content from commit O
+content from commit B
 }
